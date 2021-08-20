@@ -1,1 +1,1 @@
-## react Github User Finder
+## React Github User Finder
